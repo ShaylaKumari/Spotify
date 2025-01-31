@@ -75,6 +75,7 @@ body {
     text-decoration: none;
     text-transform: none;
     padding: 20px 10px;
+    cursor: pointer;
 }
 
 .library .library__button .fa {
@@ -83,10 +84,12 @@ body {
     color: #b3b3b3;
     margin-right: 10px;
     padding-right: 8px;
+    cursor: pointer;
 }
 
 .library .library__content .fa-plus {
     margin: 24px 10px;
+    cursor: pointer;
 }
 
 .section-playlist {
@@ -136,6 +139,7 @@ body {
     margin-top: 12px;
     border: 0px;
     width: 113px; 
+    cursor: pointer;
 }
 
 .sidebar .cookies {
